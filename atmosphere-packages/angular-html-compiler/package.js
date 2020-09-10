@@ -1,6 +1,6 @@
 Package.describe({
   name: 'digicore:angular-html-compiler',
-  version: '0.4.0',
+  version: '0.4.1',
   summary: 'Angular Html Compiler Package',
   git: 'https://github.com/cosmin-dumitrache/angular-meteor/tree/master/atmosphere-packages/angular-html-compiler',
   documentation: null
