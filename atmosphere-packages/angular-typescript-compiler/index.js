@@ -5,15 +5,15 @@ import ts from 'typescript';
 
 import {
   AngularHtmlCompiler
-} from 'meteor/angular-html-compiler';
+} from 'meteor/digicore:angular-html-compiler';
 
 import {
   AngularScssCompiler
-} from 'meteor/angular-scss-compiler';
+} from 'meteor/digicore:angular-scss-compiler';
 
 import {
   TSBuild
-} from 'meteor-typescript';
+} from '@digicore/meteor-typescript';
 
 
 import rollup from './rollup';
@@ -65,7 +65,8 @@ const ngcOptions = {
   traceResolution: false,
   skipTemplateCodegen: false,
   fullTemplateTypeCheck: true,
-  disableTypeScriptVersionCheck: true
+  disableTypeScriptVersionCheck: true,
+  enableIvy: false,
 };
 
 export class AngularTsCompiler {

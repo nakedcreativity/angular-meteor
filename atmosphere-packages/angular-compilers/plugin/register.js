@@ -2,15 +2,15 @@
 
 import {
   AngularTsCompiler
-} from 'meteor/angular-typescript-compiler';
+} from 'meteor/digicore:angular-typescript-compiler';
 
 import {
   AngularHtmlCompiler
-} from 'meteor/angular-html-compiler';
+} from 'meteor/digicore:angular-html-compiler';
 
 import {
   AngularScssCompiler
-} from 'meteor/angular-scss-compiler';
+} from 'meteor/digicore:angular-scss-compiler';
 
 let templateExtension = 'html';
 
