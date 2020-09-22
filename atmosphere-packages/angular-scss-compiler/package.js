@@ -1,6 +1,6 @@
 Package.describe({
   name: 'digicore:angular-scss-compiler',
-  version: '0.4.1',
+  version: '0.4.2',
   summary: 'Angular Scss Compiler Package',
   git: 'https://github.com/cosmin-dumitrache/angular-meteor/tree/master/atmosphere-packages/angular-scss-compiler',
   documentation: null

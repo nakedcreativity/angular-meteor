@@ -13,7 +13,7 @@ import {
 
 import {
   TSBuild
-} from '@digicore/meteor-typescript';
+} from 'meteor-typescript';
 
 
 import rollup from './rollup';

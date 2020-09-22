@@ -1,6 +1,6 @@
 babel-compiler@7.5.3
 babel-runtime@1.5.0
-digicore:angular-html-compiler@0.4.1
+digicore:angular-html-compiler@0.4.2
 dynamic-import@0.5.2
 ecmascript@0.14.3
 ecmascript-runtime@0.7.0
